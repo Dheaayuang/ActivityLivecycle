@@ -4,7 +4,13 @@
 
 - ScreenShoot :
 
+1. 
+
 <img src="https://github.com/Dheaayuang/ActivityLivecycle/blob/master/ActivityLivecycle.png">
+
+2.
+
+<img src="https://github.com/Dheaayuang/ActivityLivecycle/blob/master/ActivityLiveCycle_.png">
 
 - Identitas
 
